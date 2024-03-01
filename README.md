@@ -10,6 +10,7 @@ Click on another card to try to find a match.
 If the cards match, they will stay flipped. If not, they will flip back after a second.
 Try to match all the cards in the shortest time and with the fewest moves.
 You can reset the game by clicking on the reset button.
+
 How to run
 
 Download or clone this repository.
