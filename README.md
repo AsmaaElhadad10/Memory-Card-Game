@@ -17,3 +17,12 @@
 <h3>2. Open the `index.html` file in your browser.</h3>
 <h3>3. Enjoy the game! 🎮</h3>
 
+<h1>Demo:</h1>
+
+![1d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/df046ffe-be15-42c7-9ee0-0d0ca1361ea4)
+
+![3d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/5fa799c8-8145-48ad-86b7-ec4fd8c9d625)
+
+![2d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/84d60eb4-e372-4346-9432-44b8d3df0fe6)
+
+
