@@ -21,8 +21,10 @@
 
 ![1d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/df046ffe-be15-42c7-9ee0-0d0ca1361ea4)
 
-![33d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/612adeec-4553-4daf-b0d1-9b0f68edb65b)
+![4d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/8ca99522-90b7-45bf-a37a-600cf3b112ef)
 
-![2d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/84d60eb4-e372-4346-9432-44b8d3df0fe6)
+![5d](https://github.com/AsmaaElhadad10/Memory-Card-Game/assets/151434961/a9f6c025-964e-4156-8a58-9660442d9ce4)
+
+
 
 
