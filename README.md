@@ -14,8 +14,8 @@
 
 
 ## How to Run
-<h2>
-1. Download or clone this repository.
-2. Open the `index.html` file in your browser.
-3. Enjoy the game! 🎮
-</h2>
+
+<h2>1. Download or clone this repository.</h2>
+<h2>2. Open the `index.html` file in your browser.</h2>
+<h2>3. Enjoy the game! 🎮</h2>
+
